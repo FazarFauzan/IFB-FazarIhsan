@@ -1,0 +1,20 @@
+Fazar@MBEM /D/IFB-FazarIhsan (faktorial)
+$ git log
+commit 3202d51272688fb3e9527ebfe33afc76746e1ef4
+Merge: 12150ac 76054f1
+Author: FazarFauzan <fazar78.ff@gmail.com>
+Date:   Fri Sep 26 22:31:25 2014 +0700
+
+    Merge branch 'master' of https://github.com/FazarFauzan/IFB-FazarIhsan
+
+commit 12150acdbf15690204cfd6b730481e922f8b2f97
+Author: FazarFauzan <fazar78.ff@gmail.com>
+Date:   Fri Sep 26 22:30:02 2014 +0700
+
+    Program factorial,cek bila ada yang salah
+
+commit 76054f1ea3af78a03d78cb6c543aae49a2e3d6c8
+Author: FazarFauzan <fazar78.ff@gmail.com>
+Date:   Fri Sep 26 22:21:37 2014 +0700
+
+    Initial commit
