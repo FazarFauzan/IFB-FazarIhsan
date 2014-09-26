@@ -1,7 +1,8 @@
 import java.util.Scanner;
 class factorial{
 	public static void main(String[] args){
-	
+		long limit;
+		long faktorial=1;
 	
 		Scanner scn = new Scanner(System.in);
 		System.out.print("Masukan Bilangan Faktorial? ");
